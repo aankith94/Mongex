@@ -1,5 +1,9 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
+# Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ec37a89-b14d-4b94-9f02-20f1177e47d6" />
+
+
 ## 🌐 Live Site
 
 [Mongex is live here](https://mongex.onrender.com/signup)
