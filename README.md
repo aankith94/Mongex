@@ -1,5 +1,8 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
 
+## 🌐 Live Site
+
+[Mongex is live here](https://mongex.onrender.com/signup)
 
 Highlights:
 
